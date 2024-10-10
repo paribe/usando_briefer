@@ -5,7 +5,7 @@ hostname = 'dpg-cs3u05o8fa8c73dhme30-a'
 port = 5432
 database = 'test_database_62yd'
 username = 'root'
-password = 'a4D65IiLJicqrNtxFn5SJkMc4TLI6zqj'
+password = ''
 
 # Conexão com o banco de dados PostgreSQL
 try:
